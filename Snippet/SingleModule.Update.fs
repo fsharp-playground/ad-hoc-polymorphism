@@ -1,3 +1,4 @@
+module SingleModule.Update
 
 open System
 open System.Runtime.InteropServices

@@ -1,3 +1,5 @@
+module SingleModule.Original
+
 open System
 open System.Runtime.InteropServices
 
